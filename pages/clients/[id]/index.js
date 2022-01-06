@@ -14,7 +14,7 @@ function ClientProjectsPage() {
 	function loadProjectHandlerAlt() {
 		// load data...
 		router.push({
-			pathname: '/clients/[id]/[clientporjectid]',
+			pathname: '/clients/[id]/[clientprojectid]',
 			query: { id: 'max', clientprojectid: 'projecta' }
 		});
 	}
