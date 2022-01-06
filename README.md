@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is an example project that dives into file based routing with Next.js, the different folder/file structures to do so and also the different ways to navigate those routes such as Link, useRouter() and router.push().
+
 
 ## Getting Started
 
